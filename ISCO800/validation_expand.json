@@ -1,0 +1,702 @@
+[
+    {
+        "stage": "validation",
+        "id": 1,
+        "name": "Dr. Sarah Johnson",
+        "prompt": "Dr. Sarah Johnson - Professor of Biology at 'University of Chicago', celebrated for her innovative teaching methods and research in cellular biology. Sarah holds a PhD from MIT and is known for her engaging lecture style. She's insightful and dedicated but sometimes struggles with academic politics. Sarah enjoys bird watching, botanical gardening, and writing science blogs. Her research has led to several breakthroughs in her field, though she's working on navigating institutional challenges more effectively.",
+        "expand_id": 1
+    },
+    {
+        "stage": "validation",
+        "id": 2,
+        "name": "Mr. Henry Clarke",
+        "prompt": "Mr. Henry Clarke - High School Math Teacher at 'Springfield High', known for increasing student interest in STEM subjects through technology integration. Henry has a Master's in Education from Stanford and is highly respected by students and peers. He's patient and innovative but occasionally overwhelmed by administrative duties. Henry is an amateur astronomer, enjoys woodworking, and coaches the robotics team. His efforts have notably improved math scores, though he's advocating for better support for teachers facing burnout.",
+        "expand_id": 2
+    },
+    {
+        "stage": "validation",
+        "id": 3,
+        "name": "Ms. Olivia Turner",
+        "prompt": "Ms. Olivia Turner - Failed Elementary School Teacher who was let go due to her inability to control the classroom and meet educational standards. Olivia, with a background in early childhood education from NYU, struggled with classroom management and lesson planning. She's kind-hearted and creative but lacks discipline. Olivia enjoys painting, writing children's books, and yoga. She's taking professional development courses to address her weaknesses and plans to return to teaching with new strategies.",
+        "expand_id": 3
+    },
+    {
+        "stage": "validation",
+        "id": 4,
+        "name": "Dr. Mark Evans",
+        "prompt": "Dr. Mark Evans - Associate Professor of Economics at 'London School of Economics', recognized for his contributions to behavioral economics and engaging public lectures. Mark has a PhD from Harvard and often appears as a guest on financial podcasts. He's analytical and charismatic but has been criticized for being too theoretical. Mark is a competitive cyclist, enjoys gourmet cooking, and participates in chess tournaments. His academic work has influenced policy-making, though he's working to make his research more accessible to the general public.",
+        "expand_id": 4
+    },
+    {
+        "stage": "validation",
+        "id": 5,
+        "name": "Mrs. Linda Walsh",
+        "prompt": "Mrs. Linda Walsh - Music Teacher at 'Harmony Arts Academy', celebrated for her dedication to fostering musical talent in young children. Linda studied music education at Juilliard and excels in piano and violin. She's nurturing and talented but sometimes underestimates her administrative responsibilities. Linda sings in a community choir, collects rare musical scores, and writes about music education. Her students frequently win national competitions, though she's focusing on improving her organizational skills.",
+        "expand_id": 5
+    },
+    {
+        "stage": "validation",
+        "id": 6,
+        "name": "Ms. Emily White",
+        "prompt": "Ms. Emily White - ESL Teacher who faced challenges in maintaining employment due to a series of poorly reviewed classes. Emily, with a TEFL certification and a passion for languages, struggled with adapting her methods to different learning styles. She's friendly and enthusiastic but needs to develop a more structured curriculum. Emily enjoys traveling, blogging about her teaching experiences, and learning new languages. She's currently undergoing additional training to specialize in adult education.",
+        "expand_id": 6
+    },
+    {
+        "stage": "validation",
+        "id": 7,
+        "name": "Mr. James Peterson",
+        "prompt": "Mr. James Peterson - Physics Teacher at 'Tech City High School', known for his dynamic experiments and integration of real-world applications to explain complex theories. James has a Master's in Physics from Caltech and is beloved for his energetic teaching style. He's curious and engaging but often neglects paperwork. James participates in triathlons, builds custom computers, and volunteers at science camps. His innovative teaching methods have increased student enrollment in advanced science classes, though he's working on improving his administrative efficiency.",
+        "expand_id": 7
+    },
+    {
+        "stage": "validation",
+        "id": 8,
+        "name": "Dr. Rachel Green",
+        "prompt": "Dr. Rachel Green - Failed University Lecturer in Sociology at 'State University', who was not granted tenure due to poor student feedback and inadequate research output. Rachel's academic insights were valuable, but she struggled with engaging lectures and timely publication. She's thoughtful and knowledgeable but lacks interpersonal skills. Rachel is involved in community activism, enjoys documentary filmmaking, and writes for a social science blog. She's reevaluating her career options within academia and considering a move to applied sociology.",
+        "expand_id": 8
+    },
+    {
+        "stage": "validation",
+        "id": 9,
+        "name": "Mr. Kevin Brooks",
+        "prompt": "Mr. Kevin Brooks - Art Teacher at 'Downtown Arts School', who has revitalized the school's art program and fostered a supportive and creative community. Kevin studied Fine Arts at RISD and has a knack for inspiring his students. He's artistic and supportive but sometimes too lenient on deadlines. Kevin paints professionally, enjoys surfing, and curates art shows. His leadership has led to increased funding for arts education, though he's learning to enforce more structure in student projects.",
+        "expand_id": 9
+    },
+    {
+        "stage": "validation",
+        "id": 10,
+        "name": "Mrs. Jessica Hill",
+        "prompt": "Mrs. Jessica Hill - Kindergarten Teacher at 'Sunnyvale Community School', renowned for her child-centered approach and success in early childhood literacy. Jessica has a degree in Early Childhood Education from the University of Washington and is deeply empathetic but sometimes overwhelmed by parental expectations. Jessica enjoys organic gardening, participates in children's book writing, and organizes literacy nights. Her teaching has significantly improved reading skills in her students, though she's advocating for more parental involvement in the learning process.",
+        "expand_id": 10
+    },
+    {
+        "stage": "validation",
+        "id": 11,
+        "name": "Dr. Lucas Morgan",
+        "prompt": "Dr. Lucas Morgan - College Professor of History at 'Heritage University', known for his compelling lectures and extensive knowledge of ancient civilizations. Lucas has a PhD from Yale and excels in research. He's passionate and informative but has been criticized for overloading students with information. Lucas is an avid hiker, collects antique maps, and writes historical novels. His courses are popular among students, though he's working to make them more interactive and digestible.",
+        "expand_id": 11
+    },
+    {
+        "stage": "validation",
+        "id": 12,
+        "name": "Ms. Natalie Fisher",
+        "prompt": "Ms. Natalie Fisher - Special Education Teacher at 'Bright Futures Academy', who specializes in teaching students with autism. Natalie's innovative teaching strategies and a Master's in Special Education from Columbia have made her a pivotal member of her school. She's patient and adaptive but faces emotional burnout. Natalie enjoys pottery, swimming, and volunteering at an animal therapy center. Her dedication has led to marked improvements in her students' social skills, though she's seeking better support systems for special education teachers.",
+        "expand_id": 12
+    },
+    {
+        "stage": "validation",
+        "id": 13,
+        "name": "Mr. Derek Scott",
+        "prompt": "Mr. Derek Scott - High School English Teacher who was dismissed from 'City High' after repeated incidents of failing to meet curriculum standards. Despite his passion for literature and a Master's in English from Boston University, Derek struggled with classroom management and consistent grading. He's creative and insightful but lacks organizational skills. Derek writes poetry, plays in a local band, and is an amateur playwright. He's currently focusing on personal development and plans to return to teaching with new strategies and better preparation.",
+        "expand_id": 13
+    },
+    {
+        "stage": "validation",
+        "id": 14,
+        "name": "Dr. Anna Zhou",
+        "prompt": "Dr. Anna Zhou - Chemistry Professor at 'Global Science College', acclaimed for her research in organic chemistry and her active involvement in encouraging women in STEM. Anna has a PhD from Stanford and her classes are well-attended. She's meticulous and inspiring but sometimes too focused on research over teaching. Anna practices yoga, enjoys gourmet cooking, and speaks at conferences on gender equality in science. Her research has garnered international acclaim, though she's striving to balance her time more effectively between her laboratory and classroom.",
+        "expand_id": 14
+    },
+    {
+        "stage": "validation",
+        "id": 15,
+        "name": "Ms. Karen Walters",
+        "prompt": "Ms. Karen Walters - Elementary School Teacher at 'Maple Leaf School', known for her innovative use of technology in the classroom and her ability to connect with young students. Karen has a Bachelor's in Elementary Education from the University of Oregon and her creative teaching methods have significantly increased student engagement. She's energetic and tech-savvy but sometimes struggles with traditional teaching methods. Karen is a digital artist, enjoys geocaching, and runs a coding club for kids. Her modern teaching approach has brought new life to standard curricula, though she's working to ensure it complements traditional learning styles as well.",
+        "expand_id": 15
+    },
+    {
+        "stage": "validation",
+        "id": 16,
+        "name": "Dr. Simon Lee",
+        "prompt": "Dr. Simon Lee - University Lecturer in Philosophy at 'Prestige Academy', who resigned after controversy over his teaching methods, which were deemed too unconventional. Simon's philosophical insights and approach to critical thinking were initially celebrated, but his disregard for the curriculum led to conflicts. He's intellectually stimulating and charismatic but resistant to feedback. Simon is an avid chess player, collects rare books, and is a wine connoisseur. He's now focusing on writing and public speaking engagements outside the traditional academic environment.",
+        "expand_id": 16
+    },
+    {
+        "stage": "validation",
+        "id": 17,
+        "name": "Mrs. Alice Murphy",
+        "prompt": "Mrs. Alice Murphy - Middle School Science Teacher at 'Innovation Middle School', who has successfully integrated project-based learning into her science curriculum, resulting in increased student performance in state science assessments. Alice has a Master's in Science Education from NYU and is known for her dynamic teaching style. She's enthusiastic and inventive but sometimes overlooks standardized test preparation. Alice is an amateur astronomer, enjoys rock climbing, and leads a student science club. Her approach has invigorated her students' interest in science, though she's enhancing her focus on exam preparation to ensure all educational goals are met.",
+        "expand_id": 17
+    },
+    {
+        "stage": "validation",
+        "id": 18,
+        "name": "Mr. Ethan Grant",
+        "prompt": "Mr. Ethan Grant - Physical Education Teacher at 'Active Youth Academy', recognized for his contributions to developing a holistic health program that incorporates mental health education into physical education. Ethan's background in kinesiology and his holistic view of health have made his programs extremely successful. He's energetic and supportive but sometimes faces challenges with parental expectations about traditional sports. Ethan is a triathlete, a certified yoga instructor, and volunteers in youth mentorship programs. His innovative programs have improved both physical and mental health metrics among students, though he continues to advocate for broader acceptance of his holistic approach.",
+        "expand_id": 18
+    },
+    {
+        "stage": "validation",
+        "id": 19,
+        "name": "Ms. Chloe Richards",
+        "prompt": "Ms. Chloe Richards - ESL Teacher at 'Global Language Institute', who has transformed the institute's approach to language teaching by incorporating cultural immersion into the curriculum. Chloe's Master's in TESOL from the University of Toronto and her years of travel have provided her with unique insights into language acquisition. She's adaptable and culturally sensitive but occasionally struggles with the administrative aspects of her job. Chloe is a film enthusiast, enjoys salsa dancing, and writes a travel blog. Her methods have significantly boosted language proficiency levels, though she's working on streamlining administrative tasks to focus more on classroom activities.",
+        "expand_id": 19
+    },
+    {
+        "stage": "validation",
+        "id": 20,
+        "name": "Ethan Johnson",
+        "prompt": "Ethan Johnson - University Professor of History at 'State University'. Ethan holds a PhD in History from Harvard University. He's knowledgeable and eloquent but can be perceived as distant by students. Ethan writes historical novels, enjoys chess, and lectures at national conferences. His research has gained him accolades, though he's striving to be more approachable to students.",
+        "expand_id": 20
+    },
+    {
+        "stage": "validation",
+        "id": 21,
+        "name": "Liam Anderson",
+        "prompt": "Liam Anderson - Engineering Technician at 'AeroSpace Tech', known for his contributions to the development of innovative aerospace materials. Liam has an Associate's degree in Mechanical Engineering from Purdue University. He's meticulous and highly focused but sometimes struggles with creative problem-solving. Liam is a model aircraft hobbyist, enjoys bird watching, and volunteers at local science clubs. His work has improved material durability in aerospace designs, though he's taking courses to enhance his creative thinking skills.",
+        "expand_id": 21
+    },
+    {
+        "stage": "validation",
+        "id": 22,
+        "name": "Sophia Johnson",
+        "prompt": "Sophia Johnson - Biotechnology Technician at 'GenoTech Labs', who was integral in developing a new drug treatment that passed clinical trials successfully. Sophia studied Biotechnology at the University of California, Davis. She's detail-oriented and persistent but can be overly cautious. Sophia enjoys gardening, participates in marathon running, and blogs about biotechnology trends. Her meticulous work in the lab has been crucial in drug development, though she's working on being more decisive in high-stakes decisions.",
+        "expand_id": 22
+    },
+    {
+        "stage": "validation",
+        "id": 23,
+        "name": "Ethan Martinez",
+        "prompt": "Ethan Martinez - Civil Engineering Technician at 'BuildRight Construction', who faced difficulties during a major bridge project which experienced structural failures. Ethan has a diploma in Civil Engineering from Texas A&M. He's practical and hardworking but can overlook critical details under pressure. Ethan is an amateur photographer, enjoys rock climbing, and teaches community college courses on weekends. He's focusing on advanced training in structural integrity.",
+        "expand_id": 23
+    },
+    {
+        "stage": "validation",
+        "id": 24,
+        "name": "Olivia Brown",
+        "prompt": "Olivia Brown - Lab Technician at 'Environmental Solutions', known for her role in developing sustainable waste management techniques. Olivia has a degree in Environmental Science from Colorado State University. She's innovative and eco-conscious but sometimes too idealistic. Olivia participates in local clean-up drives, enjoys pottery, and volunteers at an animal shelter. Her sustainable practices have significantly reduced industrial waste, though she's learning to align her idealism with practical business constraints.",
+        "expand_id": 24
+    },
+    {
+        "stage": "validation",
+        "id": 25,
+        "name": "Noah Wilson",
+        "prompt": "Noah Wilson - Chemical Technician at 'PetroChem Industries', recognized for improving the efficiency of the refining process, which reduced costs by 15%. Noah studied Chemical Engineering at Georgia Tech. He's analytical and process-oriented but can be inflexible. Noah enjoys brewing his own beer, participates in chess tournaments, and volunteers for STEM education programs. His process improvements have boosted profitability, though he's working to be more adaptable to new methods.",
+        "expand_id": 25
+    },
+    {
+        "stage": "validation",
+        "id": 26,
+        "name": "Emma Smith",
+        "prompt": "Emma Smith - Electrical Engineering Technician at 'HighVolt Power', who was let go after a project she led failed to meet regulatory standards. Emma has an advanced certificate in Electrical Engineering from an accredited technical school. She's competent and technically skilled but sometimes skips necessary checks. Emma enjoys playing electric guitar, collects vintage electronics, and hosts a podcast about women in engineering. She's currently updating her certifications and focusing on compliance training.",
+        "expand_id": 26
+    },
+    {
+        "stage": "validation",
+        "id": 27,
+        "name": "Ava Davis",
+        "prompt": "Ava Davis - Mechanical Technician at 'InnovAuto Design', known for her contributions to the design of energy-efficient vehicle engines. Ava studied at the National Institute for Automotive Service Excellence. She's resourceful and inventive but can be overly assertive. Ava races go-karts, enjoys metal sculpture, and leads a local Girl Scouts troop. Her innovations have been patented, though she's improving her teamwork skills to foster a more collaborative environment.",
+        "expand_id": 27
+    },
+    {
+        "stage": "validation",
+        "id": 28,
+        "name": "William Johnson",
+        "prompt": "William Johnson - Quality Control Technician at 'TechGadget Electronics', who played a key role in achieving zero defects in product releases for the past year. William completed a specialized course in Quality Management. He's meticulous and disciplined but can be overly critical. William collects antique radios, enjoys photography, and teaches quality control workshops. His strict quality protocols have drastically reduced return rates, though he's working on his interpersonal skills.",
+        "expand_id": 28
+    },
+    {
+        "stage": "validation",
+        "id": 29,
+        "name": "Mia Williams",
+        "prompt": "Mia Williams - Research Technician at 'PharmaNext', involved in a research project that successfully discovered a new method for synthesizing life-saving medication. Mia has a Master's in Chemistry from MIT. She's dedicated and highly intelligent but can be introverted. Mia enjoys reading science fiction, participates in molecular gastronomy, and volunteers at health fairs. Her research has led to several peer-reviewed publications, though she's developing her communication skills for larger presentations.",
+        "expand_id": 29
+    },
+    {
+        "stage": "validation",
+        "id": 30,
+        "name": "Lucas Miller",
+        "prompt": "Lucas Miller - IT Support Technician at 'QuickFix Solutions', who increased the team's resolution rate by 40% through the implementation of a new ticketing system. Lucas studied Information Technology at the University of Washington. He's efficient and tech-savvy but can be dismissive of non-tech-savvy users. Lucas builds custom PCs, enjoys video gaming, and volunteers at digital literacy workshops. His improvements have enhanced support efficiency, though he's working on his patience and user support techniques.",
+        "expand_id": 30
+    },
+    {
+        "stage": "validation",
+        "id": 31,
+        "name": "Charlotte Wilson",
+        "prompt": "Charlotte Wilson - Geological Technician at 'EarthCore GeoServices', known for her work in mapping new mineral deposits which led to profitable mining ventures. Charlotte studied Geology at the University of Colorado Boulder. She's adventurous and precise but can be too focused on fieldwork. Charlotte enjoys rock climbing, fossil collecting, and writes articles for geological journals. Her mapping has opened new mining opportunities, though she's balancing fieldwork with office responsibilities.",
+        "expand_id": 31
+    },
+    {
+        "stage": "validation",
+        "id": 32,
+        "name": "Benjamin Moore",
+        "prompt": "Benjamin Moore - Radiology Technician at 'City Hospital', who faced challenges after incorrectly handling sensitive equipment, leading to repeated imaging errors. Benjamin has a certification in Radiologic Technology. He's skilled and knowledgeable but can rush through procedures. Benjamin is an amateur photographer, enjoys jazz music, and is part of a local health initiative. He's undertaking additional training to improve his operational accuracy and patient care.",
+        "expand_id": 32
+    },
+    {
+        "stage": "validation",
+        "id": 33,
+        "name": "Amelia Hernandez",
+        "prompt": "Amelia Hernandez - Aerospace Technician at 'SkyHigh Aerotech', known for her role in designing a new lightweight aircraft material. Amelia studied Aerospace Engineering at Embry-Riddle Aeronautical University. She's innovative and detail-oriented but sometimes overlooks team input. Amelia pilots light aircraft, enjoys skydiving, and teaches at aviation workshops. Her material design has been adopted in new models, though she's fostering a more inclusive team environment.",
+        "expand_id": 33
+    },
+    {
+        "stage": "validation",
+        "id": 34,
+        "name": "Logan Jackson",
+        "prompt": "Logan Jackson - Software Testing Technician at 'AppSure', recognized for developing automated testing scripts that reduced bug rates by 50%. Logan has a degree in Computer Science from the University of Texas. He's systematic and thorough but can be isolated. Logan is a digital artist, enjoys programming competitions, and mentors at coding bootcamps. His testing improvements have significantly increased product reliability, though he's working on collaborative project management.",
+        "expand_id": 34
+    },
+    {
+        "stage": "validation",
+        "id": 35,
+        "name": "Aria King",
+        "prompt": "Aria King - Materials Technician at 'DuraComposites', who improved the durability of industrial composites used in construction. Aria studied Materials Science at Penn State. She's persistent and inventive but sometimes lacks confidence in her abilities. Aria is a ceramics artist, enjoys hiking, and participates in materials science conferences. Her work has resulted in a patented composite material, though she's attending leadership workshops to boost her confidence.",
+        "expand_id": 35
+    },
+    {
+        "stage": "validation",
+        "id": 36,
+        "name": "Jackson Lee",
+        "prompt": "Jackson Lee - Environmental Science Technician at 'GreenEarth Labs', known for his development of a new water purification technique that's been implemented in several states. Jackson studied Environmental Science at UCLA. He's passionate and meticulous but can be overly optimistic about project timelines. Jackson is a competitive rower, enjoys bird watching, and speaks at environmental forums. His purification techniques have improved water quality, though he's improving his project management skills.",
+        "expand_id": 36
+    },
+    {
+        "stage": "validation",
+        "id": 37,
+        "name": "Leah Lewis",
+        "prompt": "Leah Lewis - Electromechanical Technician at 'RoboTech Innovations', who played a key role in developing a new line of industrial automation robots. Leah has a diploma in Electromechanical Technology. She's hands-on and innovative but can ignore safety protocols. Leah participates in robotics clubs, enjoys 3D printing, and volunteers at technology education events. Her contributions have enhanced production efficiency, though she's reinforcing safety in her project approaches.",
+        "expand_id": 37
+    },
+    {
+        "stage": "validation",
+        "id": 38,
+        "name": "Carter Young",
+        "prompt": "Carter Young - CAD Technician at 'Design & Build Architects', known for his precise architectural renderings that have won several design awards. Carter studied Architectural Technology at the New York Institute of Technology. He's creative and detailed but can be hesitant to adopt new technologies. Carter sketches in his free time, enjoys architectural tours, and writes a blog on historical buildings. His renderings have brought acclaim, though he's integrating more advanced software into his work.",
+        "expand_id": 38
+    },
+    {
+        "stage": "validation",
+        "id": 39,
+        "name": "Zoe Thomas",
+        "prompt": "Zoe Thomas - Nuclear Technician at 'EnergyCore Nuclear Services', who faced issues after failing to properly monitor radiation levels, leading to safety violations. Zoe has a degree in Nuclear Engineering but overlooked crucial checks. She's proficient and analytical but can be overly reliant on routine. Zoe enjoys playing the cello, participates in science fiction book clubs, and is active in nuclear safety advocacy. She's now focused on comprehensive safety training and operational diligence.",
+        "expand_id": 39
+    },
+    {
+        "stage": "validation",
+        "id": 40,
+        "name": "Lucas Baker",
+        "prompt": "Lucas Baker - Agricultural Technician at 'AgriTech Solutions', recognized for his work in improving crop yields through genetic modification. Lucas studied Agricultural Science at Iowa State University. He's dedicated and inventive but can be dismissive of traditional farming methods. Lucas is an avid gardener, enjoys cooking, and volunteers at sustainable farming workshops. His modifications have significantly increased productivity, though he's learning to value traditional practices and integrate them with modern techniques.",
+        "expand_id": 40
+    },
+    {
+        "stage": "validation",
+        "id": 41,
+        "name": "Emily Turner",
+        "prompt": "Emily Turner - Hairstylist at 'Glamour Locks Salon'. Emily trained at the Aveda Institute and has been recognized for her innovative coloring techniques. She's creative and friendly but can be impulsive with style choices. Emily enjoys fashion blogging, practices yoga, and participates in local hair shows. Her bold styling has won her several local awards, though she's working to balance client preferences with her artistic vision.",
+        "expand_id": 41
+    },
+    {
+        "stage": "validation",
+        "id": 42,
+        "name": "Michael Johnson",
+        "prompt": "Michael Johnson - Personal Trainer at 'FitLife Gym', known for his successful client transformations. Michael has a degree in Kinesiology from the University of Florida. He's motivating and disciplined but sometimes too demanding. Michael is a marathon runner, a vegan cook, and a motivational speaker. His clients have achieved impressive results, though he's learning to adapt his methods to better suit individual fitness levels.",
+        "expand_id": 42
+    },
+    {
+        "stage": "validation",
+        "id": 43,
+        "name": "Sophia Martinez",
+        "prompt": "Sophia Martinez - Wedding Planner at 'Dream Weddings', who faced criticism after a couple of high-profile wedding fiascos due to poor vendor coordination. Sophia studied Event Management at Cornell University. She's organized and enthusiastic but can be overwhelmed under pressure. Sophia enjoys floral design, writes romance novels, and volunteers at bridal fairs. She's focusing on improving her crisis management skills.",
+        "expand_id": 43
+    },
+    {
+        "stage": "validation",
+        "id": 44,
+        "name": "James Lee",
+        "prompt": "James Lee - Massage Therapist at 'Tranquil Escape Spa', recognized for his therapeutic techniques that have notably improved client wellness. James has certifications in massage therapy and aromatherapy. He's calm and attentive but sometimes too reserved. James paints watercolors, hikes, and teaches at a community wellness center. His approach has earned him a loyal clientele, though he's working on more actively promoting his services.",
+        "expand_id": 44
+    },
+    {
+        "stage": "validation",
+        "id": 45,
+        "name": "Chloe Kim",
+        "prompt": "Chloe Kim - Nail Technician at 'Polished Beauty', known for her intricate nail art. Chloe trained at the Nail Institute of America. She's detailed and artistic but can be impatient with less decisive clients. Chloe enjoys crafting, participates in fashion shows, and blogs about nail care. Her designs are featured in several beauty magazines, though she's developing better client consultation techniques.",
+        "expand_id": 45
+    },
+    {
+        "stage": "validation",
+        "id": 46,
+        "name": "Ethan Wright",
+        "prompt": "Ethan Wright - Fitness Coach at 'Urban Fit', who was let go after failing to meet the personal training sales targets. Ethan has a background in Sports Science from the University of Texas. He's energetic and supportive but can be too casual in professional settings. Ethan is an amateur boxer, collects sports memorabilia, and streams fitness vlogs. He's currently enhancing his sales skills and seeking new employment.",
+        "expand_id": 46
+    },
+    {
+        "stage": "validation",
+        "id": 47,
+        "name": "Olivia Harris",
+        "prompt": "Olivia Harris - Beauty Consultant at 'Allure Cosmetics', who has helped expand the brand's presence through her expert product demonstrations. Olivia studied Cosmetic Science at UCLA. She's persuasive and charismatic but can be overly aggressive in sales situations. Olivia enjoys photography, fashion blogging, and attends beauty industry conferences. Her influence has significantly increased sales, though she's tempering her sales tactics to be more customer-friendly.",
+        "expand_id": 47
+    },
+    {
+        "stage": "validation",
+        "id": 48,
+        "name": "Noah Thompson",
+        "prompt": "Noah Thompson - Dog Groomer at 'Puppy Pamper', known for his gentle handling of difficult dogs. Noah trained at the National Groomers Institute. He's patient and affectionate but can be disorganized. Noah volunteers at animal shelters, enjoys bird watching, and is learning pet photography. His calming presence has made him popular among pet owners, though he's improving his scheduling and administrative skills.",
+        "expand_id": 48
+    },
+    {
+        "stage": "validation",
+        "id": 49,
+        "name": "Isabella Carter",
+        "prompt": "Isabella Carter - Childcare Worker at 'Happy Days Daycare', who faced challenges after a safety incident under her supervision. Isabella has a degree in Early Childhood Education from Penn State. She's nurturing and creative but sometimes lacks foresight in safety management. Isabella is a children's book illustrator, enjoys puppetry, and participates in children's theater. She's undertaking additional safety training to ensure a secure environment for the children.",
+        "expand_id": 49
+    },
+    {
+        "stage": "validation",
+        "id": 50,
+        "name": "Mason Brooks",
+        "prompt": "Mason Brooks - Senior Care Assistant at 'Golden Years Retirement Home', recognized for his dedication to improving the quality of life for residents. Mason has a certification in Geriatric Care from the University of Maryland. He's compassionate and attentive but can be emotionally affected by his work. Mason enjoys woodworking, vintage car restoration, and volunteers for Alzheimer's awareness programs. His care strategies have enriched many lives, though he's working on managing his emotional health to avoid burnout.",
+        "expand_id": 50
+    },
+    {
+        "stage": "validation",
+        "id": 51,
+        "name": "Lily Evans",
+        "prompt": "Lily Evans - Personal Shopper at 'Elite Shopping Services', known for her ability to perfectly match client styles and preferences. Lily studied Fashion Merchandising at the Fashion Institute of Technology. She's stylish and perceptive but can be judgmental. Lily runs a fashion YouTube channel, enjoys urban sketching, and participates in fashion week events. Her service has a high satisfaction rate, though she's cultivating a more inclusive approach to client diversity in fashion.",
+        "expand_id": 51
+    },
+    {
+        "stage": "validation",
+        "id": 52,
+        "name": "Jacob White",
+        "prompt": "Jacob White - Pool Technician at 'Clear Waters Pool Services', who was recently honored for his innovative water treatment solutions that are environmentally friendly. Jacob trained in Environmental Science and Pool Maintenance. He's methodical and eco-conscious but can be inflexible with older methods. Jacob is an amateur swimmer, participates in environmental clean-ups, and advocates for chemical-free pool solutions. His eco-friendly practices have gained traction, though he's learning to be more adaptable in his services.",
+        "expand_id": 52
+    },
+    {
+        "stage": "validation",
+        "id": 53,
+        "name": "Mia Nguyen",
+        "prompt": "Mia Nguyen - Housekeeper at 'Prestige Hotel Group', known for her impeccable attention to detail that has led to the highest cleanliness ratings across the hotel chain. Mia has trained in Hospitality Management at Cornell University. She's thorough and efficient but can be overly critical of her team. Mia practices martial arts, enjoys gourmet cooking, and is part of a local hospitality training program. Her standards have set a new benchmark for the group, though she's working on her team management skills.",
+        "expand_id": 53
+    },
+    {
+        "stage": "validation",
+        "id": 54,
+        "name": "Lucas Anderson",
+        "prompt": "Lucas Anderson - Bartender at 'The Highball Lounge', who has developed a signature cocktail menu that has doubled the lounge's business. Lucas trained in Mixology at the Culinary Institute of America. He's creative and sociable but can be overly flamboyant, overshadowing more traditional offerings. Lucas collects vinyl records, DJs at local clubs, and writes a cocktail recipe blog. His innovative drinks are a hit, though he's balancing his creativity with classic tastes.",
+        "expand_id": 54
+    },
+    {
+        "stage": "validation",
+        "id": 55,
+        "name": "Grace Thomas",
+        "prompt": "Grace Thomas - Wedding Officiant at 'Sacred Vows', who faced criticism after mixing up vows during a high-profile ceremony. Grace studied Theology at Harvard Divinity School. She's eloquent and empathetic but can be disorganized. Grace enjoys hiking, writes reflective poetry, and volunteers at marriage counseling retreats. She's implementing more rigorous preparation practices to avoid future mistakes.",
+        "expand_id": 55
+    },
+    {
+        "stage": "validation",
+        "id": 56,
+        "name": "Jack Miller",
+        "prompt": "Jack Miller - Fitness Instructor at 'City Gym', who has pioneered a new workout program that has significantly increased membership engagement. Jack has a degree in Physical Education from the University of Southern California. He's energetic and innovative but sometimes neglects individual client limitations. Jack is an extreme sports enthusiast, participates in dance competitions, and volunteers in youth sports programs. His dynamic approach has revitalized the gym's offerings, though he's working on personalized training adaptations.",
+        "expand_id": 56
+    },
+    {
+        "stage": "validation",
+        "id": 57,
+        "name": "Charlotte Wilson",
+        "prompt": "Charlotte Wilson - Aesthetician at 'Luxury Spa Retreat', recognized for her skin care treatments that have garnered a celebrity clientele. Charlotte trained at the Aesthetics Institute of New York. She's meticulous and personable but can be overly assertive in recommending treatments. Charlotte is an art collector, enjoys meditative retreats, and speaks at wellness conferences. Her expertise has boosted the spa's reputation, though she's refining her client interaction approach.",
+        "expand_id": 57
+    },
+    {
+        "stage": "validation",
+        "id": 58,
+        "name": "Daniel Brown",
+        "prompt": "Daniel Brown - Life Coach at 'New Horizons Coaching', who has helped numerous clients achieve their personal and professional goals. Daniel studied Psychology at UCLA. He's insightful and motivating but can be too direct, which sometimes intimidates clients. Daniel is a long-distance runner, practices mindfulness, and hosts a podcast on self-improvement. His coaching has transformed many lives, though he's softening his approach to be more inclusive of different client sensitivities.",
+        "expand_id": 58
+    },
+    {
+        "stage": "validation",
+        "id": 59,
+        "name": "Amelia Lee",
+        "prompt": "Amelia Lee - Event Coordinator at 'Spectacular Events', known for her seamless execution of large-scale corporate events. Amelia studied Event Planning at the University of Nevada, Las Vegas. She's organized and charismatic but can be too controlling over event details. Amelia plays the piano, enjoys gourmet baking, and is a member of a professional event planners association. Her meticulous planning has ensured event success, though she's fostering a more collaborative environment with her team.",
+        "expand_id": 59
+    },
+    {
+        "stage": "validation",
+        "id": 60,
+        "name": "Matthew Martinez",
+        "prompt": "Matthew Martinez - Tattoo Artist at 'Ink Mastery Studio', who has gained a strong following for his unique, custom designs. Matthew trained in Fine Arts at the Rhode Island School of Design. He's artistic and patient but can be perfectionistic, leading to longer session times. Matthew is a rock climber, collects vintage motorcycles, and participates in art therapy workshops. His tattoo artistry is highly sought after, though he's working to optimize his session timings to accommodate more clients.",
+        "expand_id": 60
+    },
+    {
+        "stage": "validation",
+        "id": 61,
+        "name": "Elijah Martin",
+        "prompt": "Elijah Martin works as a Cheese Artisan at Jasper Hill Farm, Vermont. Educated at a local community college, he specialized in dairy science. Elijah is meticulous but somewhat reclusive, preferring the company of his cheeses over people. His hobbies include reading historical fiction and experimenting with traditional cheese-making techniques. His career, though successful in producing award-winning cheeses, is marked by his reluctance to expand his business or adopt new technologies.",
+        "expand_id": 61
+    },
+    {
+        "stage": "validation",
+        "id": 62,
+        "name": "Mia Thompson",
+        "prompt": "Mia Thompson is a pastry chef at Balthazar Bakery in New York City. She attended the Culinary Institute of America, specializing in French pastries. Mia is known for her creative flair and perfectionist tendencies, which sometimes lead to high stress. She enjoys urban sketching and jogging in Central Park. Mia's career took off after her innovative éclair series was featured in a major food magazine, though she struggles with work-life balance.",
+        "expand_id": 62
+    },
+    {
+        "stage": "validation",
+        "id": 63,
+        "name": "Carlos Ramirez",
+        "prompt": "Carlos Ramirez is a woodworker at Custom Woods in Seattle. He learned his trade from his father and never pursued formal education beyond high school. Carlos is stubborn and traditional, refusing to adopt modern techniques. His hobbies include fishing and playing the guitar. Carlos' furniture is well-respected locally, but his refusal to scale his business or use digital marketing has limited his reach and earnings.",
+        "expand_id": 63
+    },
+    {
+        "stage": "validation",
+        "id": 64,
+        "name": "Sophie Allen",
+        "prompt": "Sophie Allen is a textile artist at Portland Craft Studio. She graduated with a degree in Fine Arts from the University of Oregon. Sophie is introverted and highly sensitive, often using her emotions to fuel her creative output. She enjoys poetry, hiking, and meditation. Her career has seen fluctuating success, with periods of high demand punctuated by times when she struggles to sell her work.",
+        "expand_id": 64
+    },
+    {
+        "stage": "validation",
+        "id": 65,
+        "name": "John Kim",
+        "prompt": "John Kim is a sausage maker at Johnsonville Sausage, LLC in Wisconsin. He dropped out of culinary school to apprentice under a renowned butcher. John is outgoing and jovial, always ready to share a laugh or a sausage sample. His hobbies include brewing beer and playing softball. Despite his popularity at food fairs, his lack of formal education has sometimes been a barrier in advancing to higher management roles.",
+        "expand_id": 65
+    },
+    {
+        "stage": "validation",
+        "id": 66,
+        "name": "Felicity Jones",
+        "prompt": "Felicity Jones is a fashion designer at H&M's London office. She attended Central Saint Martins, where she graduated top of her class. Felicity is ambitious and competitive, often working long hours to perfect her designs. She enjoys visiting art galleries and practicing yoga. Although her designs have been featured in major fashion shows, her aggressive demeanor has caused conflicts with her team members, affecting her professional relationships.",
+        "expand_id": 66
+    },
+    {
+        "stage": "validation",
+        "id": 67,
+        "name": "Alex Lee",
+        "prompt": "Alex Lee is a brewmaster at Stone Brewing in California. After serving in the military, he pursued a passion for craft beer through self-education and workshops. Alex is resilient and resourceful, known for his innovative beer flavors. His hobbies include mountain biking and playing the drums. Alex's career has been a success story of passion turning into a profession, with several of his brews winning regional awards.",
+        "expand_id": 67
+    },
+    {
+        "stage": "validation",
+        "id": 68,
+        "name": "Rachel Patel",
+        "prompt": "Rachel Patel is a baker and owner of Sweet Indulgence, a boutique bakery in Atlanta. She studied business at Georgia State University but is self-taught in baking. Rachel is optimistic but sometimes naive, which has led to financial struggles despite her bakery's local popularity. Her hobbies include photography and volunteer work. Rachel's personal touch in baking and community involvement have earned her a loyal customer base.",
+        "expand_id": 68
+    },
+    {
+        "stage": "validation",
+        "id": 69,
+        "name": "Oliver Smith",
+        "prompt": "Oliver Smith is a furniture restorer at Antique Revival in New York. He studied art history at NYU and learned woodworking from his grandfather. Oliver is meticulous and detail-oriented but often overly critical of his own work. He enjoys classical music and collecting vintage watches. His career is marked by a high level of skill and customer satisfaction but limited financial success due to his perfectionism.",
+        "expand_id": 69
+    },
+    {
+        "stage": "validation",
+        "id": 70,
+        "name": "Lily Zhang",
+        "prompt": "Lily Zhang is a chocolatier at Godiva in Belgium. After a short career in marketing, she followed her passion for chocolate, learning from various masters in Europe. Lily is creative and has a keen palate, but her impatience sometimes leads to rushed decisions. Her hobbies include travel and learning languages. Lily's career has seen rapid advancement due to her innovative designs, though her interpersonal skills sometimes lag behind her technical ability.",
+        "expand_id": 70
+    },
+    {
+        "stage": "validation",
+        "id": 71,
+        "name": "David Johnson",
+        "prompt": "David Johnson is a carpenter at Build It Right in Texas. He learned his trade through years of hands-on work, starting as an apprentice in his teens. David is hardworking and reliable but sometimes resistant to change. He enjoys hunting and watching football. His career has been steady, providing him with a reliable income but little in the way of recognition or professional growth.",
+        "expand_id": 71
+    },
+    {
+        "stage": "validation",
+        "id": 72,
+        "name": "Emily White",
+        "prompt": "Emily White is a tailor at Brooks Brothers in Manhattan. She studied fashion design at FIT but found her niche in tailoring. Emily is precise and sociable, easily making connections with her high-profile clients. She enjoys live theater and gourmet cooking. Emily's career has been a mix of high achievement with her designs worn by celebrities, though she sometimes struggles with the pressure of fast-paced fashion trends.",
+        "expand_id": 72
+    },
+    {
+        "stage": "validation",
+        "id": 73,
+        "name": "Mark Brown",
+        "prompt": "Mark Brown is a craft beer technician at Denver Microbrewery. He studied chemical engineering at the University of Colorado but fell in love with brewing. Mark is analytical and inventive but sometimes overly critical of others' methods. His hobbies include skiing and participating in trivia nights. Mark's career is characterized by his technical expertise, although he often butts heads with coworkers over his exacting standards.",
+        "expand_id": 73
+    },
+    {
+        "stage": "validation",
+        "id": 74,
+        "name": "Sarah Wilson",
+        "prompt": "Sarah Wilson is a pottery artist at Clay Hands Studio in Santa Fe. She is a self-taught artist who left a corporate job to pursue her passion. Sarah is patient and thoughtful but struggles with self-doubt. Her hobbies include gardening and bird watching. Despite her artistic talent, her career is hampered by her reluctance to market her work, resulting in modest success.",
+        "expand_id": 74
+    },
+    {
+        "stage": "validation",
+        "id": 75,
+        "name": "Michael Anderson",
+        "prompt": "Michael Anderson is a meat processor at Tyson Foods in Arkansas. He started working right out of high school due to financial constraints. Michael is strong and dependable but often pessimistic about his career prospects. His hobbies include fishing and classic car restoration. Michael's career is stable but unfulfilling, and he often dreams of a different life.",
+        "expand_id": 75
+    },
+    {
+        "stage": "validation",
+        "id": 76,
+        "name": "Laura Roberts",
+        "prompt": "Laura Roberts is a leather craftsman at Coach in New York. She studied accessory design at Savannah College of Art and Design. Laura is creative and ambitious but can be overly assertive. Her hobbies include horse riding and collecting vintage leather goods. Laura's career has been successful, with her designs becoming staples in Coach's line, though her aggressive approach has sometimes isolated her from her peers.",
+        "expand_id": 76
+    },
+    {
+        "stage": "validation",
+        "id": 77,
+        "name": "James Garcia",
+        "prompt": "James Garcia is a master brewer at Sierra Nevada Brewing Co. He has a degree in microbiology from UC Davis and turned his scientific skill into a brewing passion. James is meticulous and innovative, always experimenting with new techniques. His hobbies include hiking and playing the ukulele. James' career has been notably successful, with many of his brews gaining national acclaim.",
+        "expand_id": 77
+    },
+    {
+        "stage": "validation",
+        "id": 78,
+        "name": "Isabella Martinez",
+        "prompt": "Isabella Martinez is a confectioner at Hershey's in Pennsylvania. She studied food science at Penn State and has a natural talent for flavor combinations. Isabella is cheerful and energetic but sometimes lacks focus. Her hobbies include dancing and baking. While her career has had ups and downs, her unique candy creations have become increasingly popular.",
+        "expand_id": 78
+    },
+    {
+        "stage": "validation",
+        "id": 79,
+        "name": "Ethan Thompson",
+        "prompt": "Ethan Thompson is a custom furniture maker at Thompson's Fine Furniture in Maine. He inherited the business from his father but has expanded it significantly. Ethan is confident and charismatic but often neglects his personal life for work. His hobbies include sailing and woodworking. Ethan's career is a success story in the local community, with his business thriving and gaining a reputation for quality.",
+        "expand_id": 79
+    },
+    {
+        "stage": "validation",
+        "id": 80,
+        "name": "Ava Wilson",
+        "prompt": "Ava Wilson is a ceramicist at Fire and Earth Pottery Studio in Oregon. She studied anthropology at the University of Oregon before discovering her love for ceramics. Ava is introspective and artistic but struggles with the business side of her craft. Her hobbies include reading fantasy novels and hiking. Ava's career has grown slowly, with her unique designs gaining a following, though she often feels overwhelmed by the demands of running a studio.",
+        "expand_id": 80
+    },
+    {
+        "stage": "validation",
+        "id": 81,
+        "name": "Alice Johnson",
+        "prompt": "Alice Johnson - Food Preparation Assistant at 'GreenLeaf Restaurant', known for her innovative approaches to vegan cuisine. Alice studied culinary arts at a local community college. She's creative and passionate but sometimes clashes with traditional chefs over her vegan recipes. Alice enjoys gardening, practicing yoga, and writing a food blog. Her dishes have become customer favorites, increasing restaurant traffic, though she's working on her collaboration skills with other kitchen staff.",
+        "expand_id": 81
+    },
+    {
+        "stage": "validation",
+        "id": 82,
+        "name": "David Lee",
+        "prompt": "David Lee - Kitchen Helper at 'Seaside Café', who was let go after several incidents of failing to meet health and safety standards. David has basic training in food safety but often overlooked crucial cleanliness protocols. He's friendly and enthusiastic but lacks attention to detail. David is a surfer, enjoys beach volleyball, and volunteers for ocean cleanups. He's now seeking additional training to re-enter the culinary field with a better understanding of safety practices.",
+        "expand_id": 82
+    },
+    {
+        "stage": "validation",
+        "id": 83,
+        "name": "Maria Torres",
+        "prompt": "Maria Torres - Food Preparation Assistant at 'Bella Pasta', celebrated for her role in streamlining the pasta making process. Maria attended vocational training in food processing. She's meticulous and efficient but sometimes too rigid in following recipes. Maria enjoys ballroom dancing, collects Italian cookbooks, and teaches cooking classes on weekends. Her efficiency has boosted kitchen productivity, though she's learning to experiment more with flavors.",
+        "expand_id": 83
+    },
+    {
+        "stage": "validation",
+        "id": 84,
+        "name": "Ethan Wright",
+        "prompt": "Ethan Wright - Prep Cook at 'Downtown BBQ', known for his smoking and grilling techniques. Ethan learned his skills on the job and is particularly good with meats. He's hardworking and reliable but struggles with early morning shifts. Ethan is a competitive BBQer, enjoys playing the guitar, and is active in the local music scene. His BBQ sauces have won several local awards, though he's working on balancing his late-night hobbies with his work schedule.",
+        "expand_id": 84
+    },
+    {
+        "stage": "validation",
+        "id": 85,
+        "name": "Sophia Kim",
+        "prompt": "Sophia Kim - Failed Salad Prep at 'Healthy Bites Café', dismissed after repeated complaints about the poor presentation and preparation of salads. Sophia has a background in home cooking but found the fast-paced environment challenging. She's kind and caring but not fast enough for commercial kitchens. Sophia enjoys hiking, wildlife photography, and volunteering at animal shelters. She's now focusing on improving her skills through a professional culinary course to specialize in salad creations.",
+        "expand_id": 85
+    },
+    {
+        "stage": "validation",
+        "id": 86,
+        "name": "Michael Brown",
+        "prompt": "Michael Brown - Sous Chef Assistant at 'Le Gourmet', where he has been instrumental in developing a new line of French desserts. Michael trained at a prestigious culinary school in Paris. He's talented and ambitious but sometimes overshadowed by more senior chefs. Michael is an amateur painter, collects vintage French films, and writes reviews for a food magazine. His dessert innovations have increased dessert sales by 30%, though he's seeking more recognition for his work.",
+        "expand_id": 86
+    },
+    {
+        "stage": "validation",
+        "id": 87,
+        "name": "Emily White",
+        "prompt": "Emily White - Food Prep Worker at 'City Hospital Cafeteria', praised for her dietary meal preparations that cater to various health restrictions. Emily studied nutrition at a state university. She's dedicated and empathetic but struggles with the monotony of cafeteria style cooking. Emily is a marathon runner, practices mindfulness meditation, and participates in community health fairs. Her specialized meal plans have improved patient satisfaction, though she's exploring opportunities to bring more creativity into her role.",
+        "expand_id": 87
+    },
+    {
+        "stage": "validation",
+        "id": 88,
+        "name": "Joshua Martinez",
+        "prompt": "Joshua Martinez - Buffet Assistant at 'Grand Hotel', who was fired after failing to manage food stock properly, leading to significant waste. Joshua has a high school diploma and learned on the job but often misjudged quantities. He's sociable and good with guests but poor at inventory management. Joshua enjoys DJing, skateboarding, and hosting parties. He's currently taking a course in supply chain management to improve his skills and return to the hospitality industry.",
+        "expand_id": 88
+    },
+    {
+        "stage": "validation",
+        "id": 89,
+        "name": "Olivia Garcia",
+        "prompt": "Olivia Garcia - Pastry Prep Assistant at 'Sweet Treats Bakery', known for her exquisite cake decorations. Olivia graduated from an art school and found her passion in pastry through a part-time job. She's artistic and detail-oriented but sometimes slow because she focuses too much on perfection. Olivia collects rare art supplies, enjoys sculpting, and teaches art classes to children. Her cakes have become highly requested for special events, though she's working on speeding up her process without compromising quality.",
+        "expand_id": 89
+    },
+    {
+        "stage": "validation",
+        "id": 90,
+        "name": "Ryan Smith",
+        "prompt": "Ryan Smith - Night Shift Prep at '24/7 Diner', recognized for his role in developing a popular late-night menu that boosted sales. Ryan is a self-taught cook who thrives in the laid-back environment of the diner. He's innovative and resilient but struggles with the lack of daytime interaction. Ryan is a part-time musician, enjoys late-night radio shows, and performs at local bars. His menu additions have drawn in a new crowd, though he's considering shifting to a daytime role to better align with his lifestyle.",
+        "expand_id": 90
+    },
+    {
+        "stage": "validation",
+        "id": 91,
+        "name": "Charlotte Davis",
+        "prompt": "Charlotte Davis - Juice Bar Assistant at 'Gym & Juice', who innovated a series of energy-boosting smoothies that became bestsellers. Charlotte has a background in sports science. She's health-conscious and friendly but sometimes too focused on fitness to appreciate broader dietary preferences. Charlotte is a triathlete, writes a fitness blog, and gives motivational talks. Her smoothies have significantly increased membership retention at the gym, though she's working on creating options that appeal to a broader audience.",
+        "expand_id": 91
+    },
+    {
+        "stage": "validation",
+        "id": 92,
+        "name": "Jack Wilson",
+        "prompt": "Jack Wilson - Catering Assistant at 'Events Deluxe', known for his quick setup and efficient service at large-scale events. Jack has several years of experience in event catering. He's organized and energetic but can be overly assertive with colleagues. Jack collects vintage cars, enjoys salsa dancing, and participates in charity runs. His efficiency has earned him a lead role in event planning, though he's learning to improve his teamwork skills.",
+        "expand_id": 92
+    },
+    {
+        "stage": "validation",
+        "id": 93,
+        "name": "Lily Anderson",
+        "prompt": "Lily Anderson - Sandwich Shop Worker at 'Subs & More', who faced challenges with time management, often leading to long customer wait times and poor service. Lily has a diploma in culinary arts but struggles under pressure. She's friendly and creative but easily flustered. Lily is a folk singer, enjoys crafting, and performs at local cafes. She's now taking time management workshops to improve her efficiency and customer service skills.",
+        "expand_id": 93
+    },
+    {
+        "stage": "validation",
+        "id": 94,
+        "name": "James Thomas",
+        "prompt": "James Thomas - Grill Assistant at 'BBQ Heaven', celebrated for his mastery over various grilling techniques. James is a culinary school dropout who preferred hands-on learning. He's robust and skilled but sometimes disregards health guidelines. James is an amateur boxer, collects grill recipes, and writes about BBQ techniques. His grilling has drawn in a dedicated clientele, though he's working on adhering more strictly to health codes.",
+        "expand_id": 94
+    },
+    {
+        "stage": "validation",
+        "id": 95,
+        "name": "Megan Harris",
+        "prompt": "Megan Harris - Breakfast Cook at 'Morning Glory Café', known for her bright and early setups that ensure customers start their day with a delightful breakfast. Megan trained at a local cooking school. She's cheerful and efficient but struggles with the early hours. Megan is a bird watcher, enjoys watercolor painting, and teaches Sunday school. Her breakfast specials have increased morning sales, though she's managing her sleep schedule to maintain her health.",
+        "expand_id": 95
+    },
+    {
+        "stage": "validation",
+        "id": 96,
+        "name": "Benjamin Martinez",
+        "prompt": "Benjamin Martinez - Seafood Prep at 'Oceanic Delights', who was recognized for improving fish handling procedures that enhanced freshness and taste. Benjamin is a high school graduate who advanced through sheer experience and dedication. He's precise and proud but sometimes conflicts with less experienced staff. Benjamin is a scuba diver, enjoys fishing, and campaigns for ocean conservation. His improvements have been adopted chain-wide, though he's working on his mentoring skills.",
+        "expand_id": 96
+    },
+    {
+        "stage": "validation",
+        "id": 97,
+        "name": "Zoe White",
+        "prompt": "Zoe White - Salad Bar Attendant at 'Healthy Eats Café', known for her creative salad combinations that have turned the salad bar into a highlight of the café. Zoe has a background in nutrition and wellness. She's inventive and health-oriented but often neglects the cost-effectiveness of her creations. Zoe practices Pilates, enjoys writing about wellness, and participates in local farmers' markets. Her salads attract health-conscious customers, though she's learning to balance creativity with cost management.",
+        "expand_id": 97
+    },
+    {
+        "stage": "validation",
+        "id": 98,
+        "name": "Logan Thompson",
+        "prompt": "Logan Thompson - Dishwasher at 'The Italian Place', who turned around the kitchen's cleanliness standards by implementing new washing and sanitation techniques. Logan started in the food industry with no formal education but learned every aspect on the job. He's hardworking and meticulous but sometimes overlooked for higher positions. Logan enjoys model building, plays in a community football league, and volunteers at food banks. His sanitation practices have reduced kitchen incidents, though he's aspiring to move up within the kitchen hierarchy.",
+        "expand_id": 98
+    },
+    {
+        "stage": "validation",
+        "id": 99,
+        "name": "Layla Clark",
+        "prompt": "Layla Clark - Pastry Shop Assistant at 'Sweet Confections', who struggled with the precise demands of high-quality pastry preparation, leading to her reassignment to customer service. Layla has a certificate in baking but found the artistic demands challenging. She's warm and engaging but not detail-oriented. Layla enjoys singing, participates in community theater, and hosts a podcast on local eateries. She's now thriving in customer interaction, though she's taking night classes to improve her pastry skills.",
+        "expand_id": 99
+    },
+    {
+        "stage": "validation",
+        "id": 100,
+        "name": "Aiden Lewis",
+        "prompt": "Aiden Lewis - Food Truck Operator at 'Street Eats', who has gained a loyal following for his unique street food fusions. Aiden dropped out of culinary school to start his own business. He's entrepreneurial and charismatic but sometimes faces health regulation challenges. Aiden is a skateboarder, creates graffiti art, and organizes street food festivals. His food truck has become a local favorite, though he's working on ensuring all health regulations are consistently met.",
+        "expand_id": 100
+    }
+]
